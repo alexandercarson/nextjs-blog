@@ -7,9 +7,5 @@ export default function handler(req, res) {
       name: "Joe",
       arrayOfData: [1, 2, 3, 4],
     },
-    arrayOfDataObjects: {
-      do1: [1, 2, 3],
-      do2: [3, 4, 5],
-    },
   });
 }
